@@ -9,7 +9,7 @@
 # Principais bibliotecas do Python utilizadas:
 - Requests
 - Streamlit
-- + outras no requirements.txt
+- e mais outras no requirements.txt
  
 # Passo a Passo:
 - Criação de uma venv (opcional)
